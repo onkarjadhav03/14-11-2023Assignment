@@ -1,0 +1,7 @@
+D:\mphasis\dotnet\Assignmnent12\Assignmnent12\bin\Debug\Assignmnent12.exe.config
+D:\mphasis\dotnet\Assignmnent12\Assignmnent12\bin\Debug\Assignmnent12.exe
+D:\mphasis\dotnet\Assignmnent12\Assignmnent12\bin\Debug\Assignmnent12.pdb
+D:\mphasis\dotnet\Assignmnent12\Assignmnent12\obj\Debug\Assignmnent12.csproj.AssemblyReference.cache
+D:\mphasis\dotnet\Assignmnent12\Assignmnent12\obj\Debug\Assignmnent12.csproj.CoreCompileInputs.cache
+D:\mphasis\dotnet\Assignmnent12\Assignmnent12\obj\Debug\Assignmnent12.exe
+D:\mphasis\dotnet\Assignmnent12\Assignmnent12\obj\Debug\Assignmnent12.pdb
